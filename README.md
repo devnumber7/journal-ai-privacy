@@ -1,1 +1,0 @@
-# journal-ai-privacy
